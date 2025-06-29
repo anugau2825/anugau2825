@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anu
-- 👀 I’m interested in making new entry level Cyber Security Projects 
-- 🌱 I’m currently learning Cyber Security and working on few certs 
+- 👀 I’ll be posting my Networking projects here. 
+- 🌱 I’m currently learning CCNA
 - 📫 You can contact me via emial iwearallhats@gmail.com
 
 <!---
