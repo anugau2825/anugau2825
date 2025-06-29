@@ -1,0 +1,2 @@
+This is a very basic VLAN and Trunking topology 
+There are three departments and I have created 3 VLANS and a trunk link on port f0/24 
